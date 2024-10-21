@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(13, 25, 36, 1); /* Set the desired background color for the whole page */
+    margin: 0; /* Remove default margin */
+    height: 100vh; /* Ensure the body takes the full height of the viewport */
+}
+
